@@ -1,5 +1,6 @@
 ﻿# 🏆 British Auction RFQ System
 <img width="1897" height="785" alt="Screenshot 2026-04-25 235626" src="https://github.com/user-attachments/assets/3f8270e4-131e-4397-b558-09da191b0087" />
+<img width="1580" height="682" alt="image" src="https://github.com/user-attachments/assets/0c6509ed-1bb3-405f-a588-27de6460004b" />
 
 ## 👨‍💻 Developed By
 
